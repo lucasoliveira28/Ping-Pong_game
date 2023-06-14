@@ -1,4 +1,4 @@
-Jogo de Ping-Pong
+##Jogo de Ping-Pong
 Este é um jogo de Ping-Pong simples desenvolvido em HTML5 e JavaScript. O jogo é inspirado no clássico jogo de arcade Pong, onde dois jogadores controlam as raquetes para rebater a bola e marcar pontos.
 
 Funcionalidades
