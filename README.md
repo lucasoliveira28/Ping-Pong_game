@@ -1,7 +1,7 @@
-#Jogo de Ping-Pong
+# Jogo de Ping-Pong
 Este é um jogo de Ping-Pong simples desenvolvido em HTML5 e JavaScript. O jogo é inspirado no clássico jogo de arcade Pong, onde dois jogadores controlam as raquetes para rebater a bola e marcar pontos.
 
-Funcionalidades
+## Funcionalidades
 O jogo é jogado em um campo retangular, onde cada jogador controla uma raquete verticalmente.
 A bola se move em alta velocidade pela tela, rebatendo nas raquetes e nas bordas do campo.
 O jogador humano controla a raquete da esquerda com o movimento do mouse.
@@ -18,13 +18,13 @@ O jogador computador tentará acompanhar a posição da bola automaticamente.
 A velocidade da bola e da raquete do jogador computador aumentará a cada ponto marcado.
 Divirta-se jogando Ping-Pong!
 
-Personalização
+## Personalização
 Você pode personalizar o jogo ajustando as seguintes variáveis no código JavaScript:
 
 gapX: Define a distância entre as raquetes e as bordas do campo.
 leftPaddle.h: Define a altura da raquete do jogador humano.
 rightPaddle.h: Define a altura da raquete do jogador computador.
 Cores: Você pode modificar as cores do campo, das raquetes, da bola e da pontuação alterando os valores das propriedades fillStyle nos objetos correspondentes.
-Autor
-Este jogo foi desenvolvido por [Seu Nome].
+## Autor
+Este jogo foi desenvolvido por [Lucas Oliveira].
 
